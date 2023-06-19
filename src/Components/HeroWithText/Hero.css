@@ -1,0 +1,46 @@
+.hero-img{
+    width: 100% !important;
+}
+
+.web3-text{
+    font-size: 15px;
+    color: hsl(236, 13%, 42%) !important;
+}
+
+.btn-custom{
+    background-color: hsl(5, 85%, 63%) !important;
+    color: hsl(36, 100%, 99%) !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    width: 35%;
+}
+
+.btn-custom:hover{
+    transition: all ease-out 0.3s;
+    background-color: hsl(240, 100%, 5%) !important;
+    color: hsl(36, 100%, 99%) !important;
+}
+
+.web3-title{
+    font-weight: 700 !important;
+    font-size: 45px;
+}
+
+
+@media (min-width: 992px){
+        
+    .title-container{
+        max-width: 230px !important;
+    }
+
+    /* .web3-text{
+        width: 50%;
+    } */
+
+}
+
+@media (max-width:767px){
+    .btn-custom{
+        width: 100%;
+    }
+}

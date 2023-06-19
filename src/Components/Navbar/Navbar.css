@@ -1,0 +1,8 @@
+.nav-link{
+    font-weight: 400 !important;
+}
+
+.nav-link:hover{
+    transition: all ease 0.2s;
+    color: hsl(5, 85%, 63%) !important;
+}

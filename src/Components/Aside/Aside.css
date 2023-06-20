@@ -1,5 +1,24 @@
 .card-aside{
     background-color: hsl(240, 100%, 5%);
-    height: 100%;
+    min-height: 100%;
     width: 100%;
+}
+
+.card-aside-title{
+    color: hsl(35, 77%, 62%);
+    font-weight: 700 !important;
+}
+
+.aside-subtitle{
+    font-weight: 700 !important;
+}
+
+.aside-subtitle:hover{
+    color: hsl(35, 77%, 62%) !important;
+    cursor: pointer;
+}
+
+.text-aside{
+    font-size: 15px;
+    color: hsl(233, 8%, 79%) !important;
 }

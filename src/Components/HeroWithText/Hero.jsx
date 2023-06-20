@@ -6,7 +6,7 @@ import Aside from "../Aside/Aside";
 function Hero() {
   return (
     <div className="mt-4 row g-0 ">
-      <div className="col-lg-9 col-md-8 col-12">
+      <main className="col-xl-9 col-lg-8 col-md-6  col-12">
         <picture>
           <source media="(max-width: 575px)" srcSet={mobileDesign} />
           <img
@@ -31,8 +31,8 @@ function Hero() {
             </button>
           </div>
         </div>
-      </div>
-      <div className="col-lg-3 col-md-4 col-12 px-3">
+      </main>
+      <div className="col-xl-3 col-lg-4 col-md-6 col-12 px-3 mt-3 mt-md-0">
         <Aside/>
       </div>
     </div>

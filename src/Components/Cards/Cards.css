@@ -7,3 +7,24 @@
     color: hsl(233, 8%, 79%);
     font-size: 30px;
 }
+
+.card-title p{
+    font-weight: 800 !important;
+}
+
+.card-title p:hover{
+    transition: all  cubic-bezier(0.075, 0.82, 0.165, 1) 0.3s;
+    color: hsl(5, 85%, 63%) !important;
+    cursor: pointer;
+}
+
+
+.card-text p{
+    color: hsl(236, 13%, 42%) !important;
+}
+
+.card-img{
+    min-height: 100%;
+    object-fit: cover;
+    object-position: center;
+}

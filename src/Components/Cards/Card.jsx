@@ -2,7 +2,7 @@ import './Cards.css'
 
 
 function Card({sourceImage, number, title, text}){
-    return(<div className='card '>
+    return(<div className='card border-0'>
         <div className="row g-0 gap-3">
 
             <div className="col-3">
@@ -16,11 +16,11 @@ function Card({sourceImage, number, title, text}){
                     </div>
 
                     <div className='card-title'>
-                        {title}
+                        <p className='p-0 m-0'>{title}</p>
                     </div>
 
                     <div className='card-text'>
-                        {text}
+                        <p className='p-0 m-0'>{text}</p>
                     </div>
 
                 </div>

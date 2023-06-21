@@ -32,7 +32,7 @@ function Hero() {
           </div>
         </div>
       </main>
-      <div className="col-xl-3 col-lg-4 col-md-6 col-12 px-3 mt-3 mt-md-0">
+      <div className="col-xl-3 col-lg-4 col-md-6 col-12 px-md-3 mt-3 mt-md-0">
         <Aside/>
       </div>
     </div>

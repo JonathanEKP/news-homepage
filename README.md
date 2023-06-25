@@ -1,7 +1,7 @@
 # Frontend Mentor - News homepage solution
 
 <p align="center">
-  <img src="/src/assets/screenshots/home.PNG">
+  <img src="./src/assets/Screenshots/home.PNG">
 </p>
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -38,11 +38,11 @@ Users should be able to:
 
 ##### Home Page Mobile
 
-![](./src/assets/screenshots/homeMobile.PNG)
+![](./src/assets/Screenshots/homeMobile.PNG)
 
 ##### Offcanvas Mobile
 
-![](./src/assets/screenshots/offcanvas.PNG)
+![](./src/assets/Screenshots/offcanvas.PNG)
 
 ## My process
 

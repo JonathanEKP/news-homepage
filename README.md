@@ -8,8 +8,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JonathanEKP/news-homepage)
-- Live Site URL: [Add live site URL here](https://jonathanekp.github.io/news-homepage/)
+- Solution URL: [Github repositorie](https://github.com/JonathanEKP/news-homepage)
+- Live Site URL: [Github pages deployed](https://jonathanekp.github.io/news-homepage/)
 
 ## Table of contents
 
